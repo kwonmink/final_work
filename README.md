@@ -5,8 +5,7 @@
 
 ![df_crime_2019_norm](https://user-images.githubusercontent.com/73155038/101284225-430e8280-3822-11eb-9aa2-8edec062f8a9.png)
 
-
-
+![df_crime_2019_per_capita](https://user-images.githubusercontent.com/73155038/101286152-4d357e80-382c-11eb-8daf-b95f0f0f88ae.png)
 
 ![office_location](https://user-images.githubusercontent.com/73155038/101284153-e9a65380-3821-11eb-8ada-0f26daedb68b.png)
 
