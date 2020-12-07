@@ -18,9 +18,13 @@
 
 
 
+
+
 ![murder_case](https://user-images.githubusercontent.com/73155038/101340504-32621900-38c3-11eb-862d-6c240c0dab90.png)
 
 ![murder_rate](https://user-images.githubusercontent.com/73155038/101341827-034ca700-38c5-11eb-9752-7858ae275efa.png)
 
 ![murder_both](https://user-images.githubusercontent.com/73155038/101344994-bd461200-38c9-11eb-8aaa-2ccee73f576d.png)
 
+
+![django_covid19_local](https://user-images.githubusercontent.com/73155038/101353464-fd5fc180-38d6-11eb-9da0-f034cc6e3f34.png)
