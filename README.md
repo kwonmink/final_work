@@ -13,5 +13,4 @@
 
 ![normalized_arrest](https://user-images.githubusercontent.com/73155038/101324017-e310ee00-38ac-11eb-9e83-ce01f5c6c7a4.png)
 
-
-![hm_crime_corr](https://user-images.githubusercontent.com/73155038/101323829-9d542580-38ac-11eb-9624-52b87b609df3.png)
+![hm_crime_corr](https://user-images.githubusercontent.com/73155038/101324177-266b5c80-38ad-11eb-9aee-d4c085b97f15.png)
