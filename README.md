@@ -9,3 +9,5 @@
 
 ![office_location](https://user-images.githubusercontent.com/73155038/101284153-e9a65380-3821-11eb-8ada-0f26daedb68b.png)
 
+![normalized_crime](https://user-images.githubusercontent.com/73155038/101316918-cec6f400-38a0-11eb-83a0-5386eefc7081.png)
+
