@@ -27,5 +27,5 @@
 
 ![django_covid19_local](https://user-images.githubusercontent.com/73155038/101485513-9ad1f880-399e-11eb-8a5a-c5f90cfa6332.png)
 
-![django_covid19](https://user-images.githubusercontent.com/73155038/101790228-93008880-3b45-11eb-9273-0d22e6869c83.png)
+![django_covid19](https://user-images.githubusercontent.com/73155038/101795026-cf82b300-3b4a-11eb-9d99-0e748309dfa1.png)
 
