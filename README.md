@@ -25,5 +25,7 @@
 
 ![murder_both](https://user-images.githubusercontent.com/73155038/101344994-bd461200-38c9-11eb-8aaa-2ccee73f576d.png)
 
-
 ![django_covid19_local](https://user-images.githubusercontent.com/73155038/101485513-9ad1f880-399e-11eb-8a5a-c5f90cfa6332.png)
+
+![django_covid19](https://user-images.githubusercontent.com/73155038/101790228-93008880-3b45-11eb-9273-0d22e6869c83.png)
+
